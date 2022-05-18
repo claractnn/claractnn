@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @claractnn. I'm currently on a work-study contract as a web developer.
 - 👀 I’m interested in frontend development, UI/UX design, art...
-- 🌱 I’m currently learning the basics of HTML et CSS and Wordpress.org
+- 🌱 I’m currently learning the basics of HTML, CSS and Wordpress.org
 - 👩🏻‍💻 I am a beginner in the field but passionate about creation and development !
 
 <!---
