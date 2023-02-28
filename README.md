@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @claractnn. I'm currently looking for a job as junior web developer 
 - 👀 I’m interested in frontend development, UI/UX design, art, music...
 - 🌱 I’m currently learning JAVASCRIPT with OPENCLASSROOMS school
-- 👩🏻‍💻 I know HTML, CSS, SASS, GIT and the basics of JAVASCRIPT !
+- 👩🏻‍💻 I know HTML, CSS, SASS, GIT, Javascript and the basics of Node.js, Expres and Mongo DB !
 
 <!---
 claractnn/claractnn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
